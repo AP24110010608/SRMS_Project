@@ -1,0 +1,6 @@
+1 Aishu 98.00
+2 Gayatri 97.00
+3 Raj 88.00
+4 Rahul 79.00
+5 Karthik 89.00
+6 Priya 75.00
